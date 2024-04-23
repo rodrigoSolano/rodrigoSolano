@@ -1,2 +1,2 @@
 Hola, mi nombre es Rodrigo Solano.
-Soy un Desarrollador Web Frontend.
+Soy un Desarrollador Full Stack.
